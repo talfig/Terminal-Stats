@@ -161,7 +161,7 @@
                 <text x="0" textLength="8" class="background"></text>
             </g>
             <g id="g10">
-                <text x="0" textLength="104" class="color6">Tal Figenblat</text>
+                <text x="0" textLength="104" class="color6">talfig</text>
             </g>
             <g id="g11">
                 <text x="0" textLength="128" font-weight="bold" class="color10">talfig@github</text>
@@ -273,7 +273,7 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Commits       </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 1527      </text>
+                <text x="136" textLength="96" class="green"> 1528      </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g29">
